@@ -5,7 +5,7 @@ mascara=input("¿tiene mascara?")
 if volar== 'si' and humano== 'si' and mascara== 'si':
     print("Iroman")
 elif volar=='si' and humano== 'si' and mascara== 'no':
-    print("captian Marvel")
+    print("captain Marvel")
 elif volar== 'si' and humano== 'no' and mascara== 'si':
     print("Ronan Acuser")
 elif volar== 'si' and humano== 'no' and mascara== 'no':
